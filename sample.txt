@@ -1,0 +1,2 @@
+changes done to the tracked file before commiting.
+new changes to check data comparison function between working directory and staging area.
